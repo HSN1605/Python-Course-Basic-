@@ -1,0 +1,8 @@
+r v p - p
+r v s - r
+
+p v s - s
+p v r - p
+
+s v r - r
+s v p - s
